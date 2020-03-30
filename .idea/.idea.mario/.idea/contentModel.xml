@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\localadmin\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\localadmin\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_mario.-770244667.00" t="ExcludeRecursive" />
+    <e p="D:\school\source tree\mario" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AllSkyFree" t="Include">
+          <e p="AllSkyFree_Menu.cs" t="Include" />
+          <e p="AllSkyFree_Readme.txt" t="Include" />
+        </e>
+        <e p="RoadTool" t="Include">
+          <e p="Editor" t="Include">
+            <e p="RoadTool.cs" t="Include" />
+          </e>
+          <e p="Example" t="Include">
+            <e p="Standard Assets" t="Include">
+              <e p="Skyboxes" t="Include">
+                <e p="_skybox info.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="Road.cs" t="Include" />
+            <e p="RoadMath.cs" t="Include" />
+            <e p="RoadUtils.cs" t="Include" />
+          </e>
+          <e p="Texture" t="Include">
+            <e p="Texture Credits.txt" t="Include" />
+          </e>
+        </e>
+        <e p="script" t="Include">
+          <e p="destroy.cs" t="Include" />
+          <e p="destroy1.cs" t="Include" />
+          <e p="MouseLook.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="spawnmanager.cs" t="Include" />
+        </e>
+        <e p="Yuna 3d - Anime Style" t="Include">
+          <e p="Advance Unlit Shader" t="Include">
+            <e p="Advance Unlit.shader" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AdvanceUnlitCustomGUI.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="UIManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ReadMe!.txt" t="Include" />
+        </e>
+      </e>
+      <e p="mario.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
