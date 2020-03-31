@@ -10,6 +10,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/script/destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/script/destroy1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/script/gamemanager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/script/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/script/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/script/spawnmanager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +25,8 @@
         <option value="$PROJECT_DIR$/Assets/script/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/script/spawnmanager.cs" />
         <option value="$PROJECT_DIR$/Assets/script/destroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/script/gamemanager.cs" />
+        <option value="$PROJECT_DIR$/Assets/script/destroy1.cs" />
       </list>
     </option>
   </component>
@@ -74,7 +78,7 @@
       <workItem from="1585046449677" duration="2765000" />
       <workItem from="1585573785611" duration="4000" />
       <workItem from="1585589710557" duration="302000" />
-      <workItem from="1585590076391" duration="7976000" />
+      <workItem from="1585590076391" duration="10115000" />
     </task>
     <servers />
   </component>

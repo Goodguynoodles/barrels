@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class destroy : MonoBehaviour
 {
 
@@ -19,7 +19,7 @@ public class destroy : MonoBehaviour
     {
         if (other.gameObject.CompareTag("enemy"))
         {
-           
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             playerdeath.PlayOneShot(deathsound, 1.0f);
         }
         

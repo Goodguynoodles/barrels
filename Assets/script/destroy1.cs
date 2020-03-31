@@ -7,11 +7,11 @@ public class destroy1 : MonoBehaviour
 {
 
     public AudioClip deathsound;
-    private AudioSource playerdeath;
+    private AudioSource playerdeath1;
 
     void Start()
     {
-        playerdeath = GetComponent<AudioSource>();
+        playerdeath1 = GetComponent<AudioSource>();
     }
     
 
@@ -20,7 +20,7 @@ public class destroy1 : MonoBehaviour
         if (other.gameObject.CompareTag("enemy"))
         {
            Destroy(gameObject);
-            playerdeath.PlayOneShot(deathsound, 1.0f);
+            playerdeath1.PlayOneShot(deathsound, 1.0f);
         }
         
     }

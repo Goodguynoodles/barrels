@@ -35,6 +35,7 @@
         <e p="script" t="Include">
           <e p="destroy.cs" t="Include" />
           <e p="destroy1.cs" t="Include" />
+          <e p="gamemanager.cs" t="Include" />
           <e p="MouseLook.cs" t="Include" />
           <e p="NewBehaviourScript.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
